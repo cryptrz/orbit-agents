@@ -5,7 +5,7 @@ on:
     branches: [ main, test ]
 
 env:
-  VERSION: "v4.65.0"
+  VERSION: "v4.79.1"
   ARCH: "amd64"
   OSQUERY_URL: "https://osq.lhc.lu:443"
   RELEASES_BASE_URL: "https://github.com/fleetdm/fleet/releases/download/fleet"
