@@ -11,4 +11,4 @@ Will use fleetdm orbit to build:
 ## Requirements
 
 Requires Docker running with privileged mode to mount volumes, also requires
-cpio and obviously the docker binary
+cpio and obviously the docker binary.
